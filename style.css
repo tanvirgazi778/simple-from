@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(214, 214, 39);
+    margin: 0;
+}
+h2 {
+    background-color: Orange;
+    margin: 0;
+    text-align: center;
+    padding: 10px;
+}
+h3 {
+    text-align: center;
+}
+form {
+   padding-left: 35%;
+}
